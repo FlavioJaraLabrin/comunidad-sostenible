@@ -12,9 +12,7 @@ a{
 }
 img{max-width: 100%;
 }
-section{
-	padding: 90px 0;
-}
+
 .header{
 	background-color:#e6ffe6;
 	position: fixed;
@@ -75,12 +73,9 @@ section{
 	margin: 4% 1%;
 }
 .contc_plomo{
-	background: #9E8C82;
 	text-align: center;
 }
-.contc_plomo p{
-	padding: 30px;
-}
+
 .cont > img{
 		width: 10%;
 }
